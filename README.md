@@ -1,12 +1,8 @@
-<h2 align="center">
- <abc>
-  <h1 align="center">Hi,<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Rana Hamza Khalid</h1>
+<h1 align="center">Hi👋🏻, I'm Rana Hamza Khalid</h1>
 <h3 align="center">A passionate and self-motivated, enthusiastic Full Stack Software Engineer 💻 from pakistan 🇵🇰</h3>   
-  <br>
- <p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=ranahamzadev23&label=Profile%20views&color=0e75b6&style=flat" alt="ranahamzadev23" /> </p>
- </abc>
-  
+ 
+<p align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"> </p>
+
 - 👨‍💻 More details about me are available at [https://github.com/ranahamzadev23](https://github.com/ranahamzadev23)
 
 - 💬 Ask me about **Web Development**
